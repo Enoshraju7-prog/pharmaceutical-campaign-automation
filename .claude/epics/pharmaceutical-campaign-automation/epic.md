@@ -2,6 +2,7 @@
 name: pharmaceutical-campaign-automation
 status: backlog
 created: 2025-09-15T06:14:27Z
+updated: 2025-09-15T06:45:53Z
 progress: 0%
 prd: .claude/prds/pharmaceutical-campaign-automation.md
 github: https://github.com/Enoshraju7-prog/pharmaceutical-campaign-automation/issues/1
@@ -11,7 +12,7 @@ github: https://github.com/Enoshraju7-prog/pharmaceutical-campaign-automation/is
 
 ## Overview
 
-Build an AI-powered pharmaceutical campaign automation platform using Python FastAPI backend with Streamlit frontend, orchestrating 7 specialized agents via LangGraph workflow management. The system transforms manual 4-6 week campaign creation into automated few-minute workflows while maintaining pharmaceutical compliance standards.
+Build an AI-powered pharmaceutical campaign automation platform using Python FastAPI backend with Streamlit frontend, orchestrating 7 specialized agents via LangGraph workflow management. The system transforms manual 4-6 week campaign creation into automated few-days workflows while maintaining pharmaceutical compliance standards.
 
 ## Architecture Decisions
 
