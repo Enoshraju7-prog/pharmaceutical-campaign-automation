@@ -2,7 +2,7 @@
 name: pharmaceutical-campaign-automation
 status: backlog
 created: 2025-09-15T06:14:27Z
-updated: 2025-09-15T07:12:21Z
+updated: 2025-09-15T07:14:33Z
 progress: 0%
 prd: .claude/prds/pharmaceutical-campaign-automation.md
 github: https://github.com/Enoshraju7-prog/pharmaceutical-campaign-automation/issues/1
