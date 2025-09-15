@@ -2,7 +2,7 @@
 name: pharmaceutical-campaign-automation
 status: backlog
 created: 2025-09-15T06:14:27Z
-updated: 2025-09-15T06:45:53Z
+updated: 2025-09-15T07:12:21Z
 progress: 0%
 prd: .claude/prds/pharmaceutical-campaign-automation.md
 github: https://github.com/Enoshraju7-prog/pharmaceutical-campaign-automation/issues/1
@@ -148,8 +148,7 @@ High-level task categories for implementation:
 ## Success Criteria (Technical)
 
 **Performance Benchmarks:**
-- Total workflow execution: ≤ few minutes (Master + 6 agents)
-- Individual agent timing: Marketing Intelligence ≤30s, Content Generation ≤60s, Content Organization ≤30s, Veeva Integration ≤45s, Audience Targeting ≤60s, Campaign Activation ≤45s
+- Total workflow execution: ≤ few days (Master + 6 agents)
 - API response times: <200ms for non-agent endpoints
 - Frontend updates: Real-time without manual refresh
 
