@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-15T06:14:27Z
 progress: 0%
 prd: .claude/prds/pharmaceutical-campaign-automation.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/Enoshraju7-prog/pharmaceutical-campaign-automation/issues/1
 ---
 
 # Epic: Pharmaceutical Campaign Automation
@@ -184,14 +184,14 @@ High-level task categories for implementation:
 - Streamlit real-time updates (user experience critical)
 
 ## Tasks Created
-- [ ] 001.md - Foundation Setup (parallel: true)
-- [ ] 002.md - Mock Data System (parallel: true)
-- [ ] 003.md - Agent Framework (parallel: false, depends: [001])
-- [ ] 004.md - Specialized Agents Implementation (parallel: false, depends: [002, 003])
-- [ ] 005.md - Frontend Integration (parallel: true, depends: [001])
-- [ ] 006.md - Validation System (parallel: true, depends: [002])
-- [ ] 007.md - Testing Suite (parallel: false, depends: [004, 005, 006])
-- [ ] 008.md - Documentation and Deployment (parallel: false, depends: [007])
+- [ ] #6 - Foundation Setup (parallel: true)
+- [ ] #8 - Mock Data System (parallel: true)
+- [ ] #9 - Agent Framework (parallel: false)
+- [ ] #4 - Specialized Agents Implementation (parallel: false)
+- [ ] #5 - Frontend Integration (parallel: true)
+- [ ] #7 - Validation System (parallel: true)
+- [ ] #2 - Testing Suite (parallel: false)
+- [ ] #3 - Documentation and Deployment (parallel: false)
 
 Total tasks: 8
 Parallel tasks: 4
